@@ -74,7 +74,7 @@ const Header = props => (
               fontWeight: '200',
             }}
           >
-            Work
+            internships/course projects
           </button>
         </li>
         {JSONData.showTalksAndBlogTab && (
