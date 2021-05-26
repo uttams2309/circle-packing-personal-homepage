@@ -61,7 +61,7 @@ const Header = props => (
               fontWeight: '200',
             }}
           >
-            About Me
+            My story
           </button>
         </li>
         <li>
@@ -88,7 +88,7 @@ const Header = props => (
                 fontWeight: '200',
               }}
             >
-              Talks+Blogs
+              self projects
             </button>
           </li>
         )}
