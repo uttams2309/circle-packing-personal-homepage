@@ -75,7 +75,7 @@ class Main extends React.Component {
             msOverflowStyle: 'none',
           }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Internship</h2>
           <span className="image main">
             <img src={JSONData.WorkImage} alt="" />
           </span>
