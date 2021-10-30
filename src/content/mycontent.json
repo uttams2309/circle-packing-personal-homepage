@@ -20,19 +20,19 @@
     ""
   ],
   "WorkImage": "",
-  "InternshipsStartLine": "Previously, I have interned with :",
+  "InternshipsStartLine": "",
   "InternShips": [
     {
-      "name": "Amazon India",
-      "link": "#"
+      "name": "Inmobi",
+      "link": ""
     },
     {
-      "name": "North-Eastern Space Application Center (ISRO) ↗",
-      "link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+      "name": "",
+      "link": ""
     },
     {
-      "name": "Computer Vision Center, Universitat Autonoma de Barcelona  ↗",
-      "link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+      "name": "",
+      "link": ""
     }
   ],
   "ProjectsStartLine": "Some of my other works can be found here :",
@@ -63,17 +63,17 @@
   "TalkIntroLine": "",
   "Talks": [
     {
-      "talkTitle": "Front End Patterns for ⚡ Performance",
-      "talkMetadata": "@ Microsoft, March 2021",
+      "talkTitle": "",
+      "talkMetadata": "",
       "talkDescription": "A live and interactive deep dive into frontend-performance optimization with patterns like CSR, SPAs, SSR, SSG, ISG etc (👻). A comparative study of technologies behind Amazon, Gmail, Netflix along with some quick wins for perf improvements",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/13yhcpI_CwCU0np_tzTAUJGNci4hSGme3/view?usp=sharing",
-          "linkTitle": "Slides (pdf) ↗"
+          "url": "",
+          "linkTitle": ""
         },
         {
-          "url": "https://drive.google.com/file/d/19J08czyywp7JCioK8eDQ2Li83zW3bc3C/view?usp=sharing",
-          "linkTitle": "Slides with videos (pptx)  ↗"
+          "url": "",
+          "linkTitle": ""
         }
       ]
     },
@@ -93,19 +93,19 @@
   "Blogs": [
     {
       "blogTitle": "Hey Alexa, meet Music 🎵",
-      "link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
+      "link": ""
     },
     {
       "blogTitle": "7 actionable steps to ace your coding interview 👩‍💻",
-      "link": "https://www.linkedin.com/pulse/7-actionable-steps-ace-your-coding-interview-aditya-ketkar?trk=public_profile_article_view"
+      "link": ""
     },
     {
       "blogTitle": "Tech Interview Prep Series 👨‍💼",
-      "link": "https://edmad.co/blog"
+      "link": ""
     },
     {
       "blogTitle": "Jagriti Yatra Series 🚂 🌎",
-      "link": "https://ketkar.medium.com/jagrati-yatra-day-1-d30725cf8f71"
+      "link": ""
     }
   ],
 
