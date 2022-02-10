@@ -317,7 +317,7 @@ class Main extends React.Component {
               target="_blank"
               href={JSONData.CV}
             >
-              CV{' '}
+              My Resume{' '}
             </a>
             <a
               style={{
